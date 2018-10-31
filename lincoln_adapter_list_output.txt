@@ -1,0 +1,5 @@
+system> ob-1                            Broadcom NetXtreme Gigabit Ethernet Controller (onboard)
+ob-5                            Adapter 19:00:00 (onboard)
+slot-1                          Intel X520 Dual Port 10GbE SFP+ Adapter
+slot-4                          ServeRAID M1215
+slot-9                          ServeRAID M5210 system>

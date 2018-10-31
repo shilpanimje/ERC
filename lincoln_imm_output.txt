@@ -1,0 +1,7 @@
+Type Status Version BuildID ReleaseDate
+---- ------ ------- ------- -----------
+IMM2(Primary) Active 2.50 TCOO16P 2016/01/21
+IMM2(Backup) Inactive 2.50 TCOO16P 2016/01/21
+UEFI(Primary) Active 2.01 TCE122WUS 2016/04/27
+UEFI(Backup) Inactive 2.01 TCE122WUS 2016/04/27
+DSA Active 10.2 DSALA8E 2015/11/24
